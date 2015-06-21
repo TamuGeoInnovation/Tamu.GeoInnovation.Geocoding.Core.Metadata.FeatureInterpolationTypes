@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata.FeatureInterpolationTypes\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureInterpolationTypes.dll
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata.FeatureInterpolationTypes\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureInterpolationTypes.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata.FeatureInterpolationTypes\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureInterpolationTypes.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata.FeatureInterpolationTypes\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureInterpolationTypes.pdb
